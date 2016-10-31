@@ -1,0 +1,9 @@
+u:\BelovMA\WinForms\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+u:\BelovMA\WinForms\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+u:\BelovMA\WinForms\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+u:\BelovMA\WinForms\Dialogs\Dialogs\obj\Debug\Dialogs.csprojResolveAssemblyReference.cache
+u:\BelovMA\WinForms\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
+u:\BelovMA\WinForms\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+u:\BelovMA\WinForms\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.Cache
+u:\BelovMA\WinForms\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+u:\BelovMA\WinForms\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
